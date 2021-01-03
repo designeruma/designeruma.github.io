@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/designs/</loc>
+    <loc>https://designeruma.github.io/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/techs/</loc>
+    <loc>https://designeruma.github.io/techs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://designeruma.github.io/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
