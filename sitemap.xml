@@ -52,6 +52,13 @@
   </url>
   
   <url>
+    <loc>https://designeruma.github.io/portfolio/sample-project2/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://designeruma.github.io/techs/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
