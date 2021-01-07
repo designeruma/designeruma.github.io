@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://designeruma.github.io/portfolio/sample-project/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://designeruma.github.io/techs/d3/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -45,14 +52,14 @@
   </url>
   
   <url>
-    <loc>https://designeruma.github.io/portfolio/sample-project/</loc>
+    <loc>https://designeruma.github.io/portfolio/sample-project2/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://designeruma.github.io/portfolio/sample-project2/</loc>
+    <loc>https://designeruma.github.io/portfolio/sample-project3/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
