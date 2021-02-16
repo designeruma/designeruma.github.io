@@ -9,7 +9,7 @@
     <copyright>© Uma Meyyammai</copyright>
     <lastBuildDate>Fri, 03 Jan 2020 19:47:09 +0200</lastBuildDate><atom:link href="https://designeruma.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sample project</title>
+      <title>Sample project 2</title>
       <link>https://designeruma.github.io/portfolio/project2/</link>
       <pubDate>Fri, 03 Jan 2020 19:47:09 +0200</pubDate>
       
@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     </item>
     
     <item>
-      <title>Sample project</title>
+      <title>Sample project 3</title>
       <link>https://designeruma.github.io/portfolio/project3/</link>
       <pubDate>Thu, 02 Jan 2020 19:47:09 +0200</pubDate>
       
@@ -30,10 +30,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     
     <item>
       <title>Alpha 1</title>
-      <link>https://designeruma.github.io/portfolio/project/</link>
+      <link>https://designeruma.github.io/portfolio/project1/</link>
       <pubDate>Wed, 01 Jan 2020 19:47:09 +0200</pubDate>
       
-      <guid>https://designeruma.github.io/portfolio/project/</guid>
+      <guid>https://designeruma.github.io/portfolio/project1/</guid>
       <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
